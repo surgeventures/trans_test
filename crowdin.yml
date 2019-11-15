@@ -4,6 +4,6 @@ export_languages:
   - pl
 files:
   - source: "/**/priv/gettext/*.pot"
-    translation: "%original_path%/%two_letters_code%/LC_MESSAGES/%original_file_name%"
+    translation: "**/priv/gettext/%two_letters_code%/LC_MESSAGES/%original_file_name%"
     translation_replace:
       pot: 'po'
