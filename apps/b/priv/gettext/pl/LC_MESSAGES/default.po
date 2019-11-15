@@ -1,16 +1,18 @@
-## "msgid"s in this file come from POT (.pot) files.
-##
-## Do not add, change, or remove "msgid"s manually here as
-## they're tied to the ones in the corresponding POT file
-## (with the same domain).
-##
-## Use "mix gettext.extract --merge" or "mix gettext.merge"
-## to merge POT files into PO files.
 msgid ""
 msgstr ""
-"Language: pl\n"
-"Plural-Forms: nplurals=3\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: a4fa3677a7e513081a1adeb3bfb753ce\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /master/b/priv/gettext/default.pot\n"
+"Project-Id-Version: a4fa3677a7e513081a1adeb3bfb753ce\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: karol\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"PO-Revision-Date: 2019-11-15 12:45\n"
 
 #, elixir-format
 msgid "Hi from B"
 msgstr ""
+
