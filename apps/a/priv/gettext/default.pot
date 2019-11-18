@@ -15,5 +15,8 @@ msgid "Hello!"
 msgstr ""
 
 #, elixir-format
+msgid "I come from feature 2!"
+msgstr ""
+
 msgid "One"
 msgstr ""

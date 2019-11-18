@@ -6,6 +6,9 @@ defmodule A do
     |> IO.puts()
   end
 
+  def f2 do
+    gettext("I come from feature 2!")
+
   def one do
     gettext("One")
   end
