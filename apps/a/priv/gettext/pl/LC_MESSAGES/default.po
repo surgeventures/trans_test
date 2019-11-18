@@ -19,4 +19,3 @@ msgstr "Witaj!"
 #, elixir-format
 msgid "One"
 msgstr "Jeden"
-
