@@ -10,13 +10,13 @@ msgstr ""
 "Last-Translator: karol\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2019-11-15 14:00\n"
+"PO-Revision-Date: 2019-11-18 09:31\n"
 
 #, elixir-format
 msgid "Hello!"
-msgstr ""
+msgstr "Witaj!"
 
 #, elixir-format
 msgid "I come from feature 2!"
-msgstr ""
+msgstr "Pochodzę z funkcji 2!"
 
