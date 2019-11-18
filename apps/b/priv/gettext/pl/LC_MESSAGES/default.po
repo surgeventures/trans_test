@@ -16,3 +16,6 @@ msgstr ""
 msgid "Hi from B"
 msgstr "Cześć z B"
 
+#, elixir-format
+msgid "One"
+msgstr "Raz"

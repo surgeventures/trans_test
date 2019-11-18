@@ -20,3 +20,5 @@ msgstr "Witaj!"
 msgid "I come from feature 2!"
 msgstr "Pochodzę z funkcji 2!"
 
+msgid "One"
+msgstr "Jeden"
