@@ -18,4 +18,8 @@ msgstr "Cześć z B"
 
 #, elixir-format
 msgid "One"
+msgstr "Raz"
+
+#, elixir-format
+msgid "One"
 msgstr "Jeden"
