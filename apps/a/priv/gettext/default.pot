@@ -13,3 +13,7 @@ msgstr ""
 #, elixir-format
 msgid "Hello!"
 msgstr ""
+
+#, elixir-format
+msgid "One"
+msgstr ""

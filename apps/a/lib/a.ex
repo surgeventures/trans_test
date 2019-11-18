@@ -5,4 +5,8 @@ defmodule A do
     gettext("Hello!")
     |> IO.puts()
   end
+
+  def one do
+    gettext("One")
+  end
 end
