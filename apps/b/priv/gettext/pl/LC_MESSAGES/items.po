@@ -19,4 +19,3 @@ msgstr[0] "Jedno coś"
 msgstr[1] "%{count} cosie"
 msgstr[2] "%{count} cosiów"
 msgstr[3] "%{count} cosi"
-

@@ -9,4 +9,8 @@ defmodule B do
   def items(n) do
     dngettext("items", "%{count} item", "%{count} items", n)
   end
+
+  def one do
+    gettext("One")
+  end
 end
