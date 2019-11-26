@@ -3,7 +3,12 @@ preserve_hierarchy: true
 export_languages:
   - pl
 files:
-  - source: "/**/priv/gettext/*.pot"
-    translation: "**/priv/gettext/%two_letters_code%/LC_MESSAGES/%original_file_name%"
-    translation_replace:
-      pot: 'po'
+  - source: "/apps/a/priv/gettext/default.pot"
+    dest: /a/default.pot
+    translation: "/apps/a/priv/gettext/%two_letters_code%/LC_MESSAGES/default.po"
+  - source: "/apps/b/priv/gettext/default.pot"
+    dest: /b/default.pot
+    translation: "/apps/b/priv/gettext/%two_letters_code%/LC_MESSAGES/default.po"
+  - source: "/apps/b/priv/gettext/items.pot"
+    dest: /b/items.pot
+    translation: "/apps/b/priv/gettext/%two_letters_code%/LC_MESSAGES/items.po"
