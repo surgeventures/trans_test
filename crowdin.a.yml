@@ -1,0 +1,9 @@
+base_path: /apps
+preserve_hierarchy: true
+export_languages:
+  - pl
+files:
+  - source: "/a/priv/gettext/*.pot"
+    translation: "/a/priv/gettext/%two_letters_code%/LC_MESSAGES/%original_file_name%"
+    translation_replace:
+      '.pot': '.po'
