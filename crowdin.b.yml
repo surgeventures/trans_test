@@ -4,9 +4,4 @@ export_languages:
   - pl
 files:
   - source: "/b/priv/gettext/*.pot"
-    translation: "/b/priv/gettext/%two_letters_code%/LC_MESSAGES/%original_file_name%"
-    translation_replace:
-      '.pot': '.po'
-    languages_mapping:
-      two_letters_code:
-        en-UK: en_UK
+    translation: "/b/priv/gettext/%osx_locale%/LC_MESSAGES/%file_name%.po"
